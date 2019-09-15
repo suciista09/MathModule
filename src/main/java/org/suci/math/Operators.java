@@ -16,4 +16,8 @@ public class Operators {
     public int divide(int a, int b){
         return a/b;
     }
+
+    public String hello(){
+        return "hello";
+    }
 }
